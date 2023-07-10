@@ -1,19 +1,16 @@
 [
-      {name: "Company A", children: 
-        [
+      {name: "Company A", children: [
         {name: "Technical", children: [
           {name: "Team Leaders"},
           {name: "Architects"},
           {name: "Developers"},
           {name: "Testers"}
-        ]
-      },
-      {name: "Sales", children: 
-        [
+        ]},
+        {name: "Sales", children: [
           {name: "Analysts"},
           {name: "Executives"}
-        ]
-      },
-      {name: "HR"},
-      {name: "Management"}
-]
+        ]},
+        {name: "HR"},
+        {name: "Management"}
+      ]}
+    ];
